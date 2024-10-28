@@ -1,0 +1,471 @@
+{
+  "cashcraft:recipes/break_note_twenty": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-10-27 14:02:41 +0200"
+    },
+    "done": true
+  },
+  "cashcraft:recipes/make_note_twenty": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  },
+  "cashcraft:recipes/make_note_two": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-10-27 22:49:57 +0200"
+    },
+    "done": true
+  },
+  "cashcraft:recipes/break_coin_two": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "creeper": "2024-10-27 14:08:26 +0200"
+    },
+    "done": true
+  },
+  "hbm:horizonsstart": {
+    "criteria": {
+      "impossible": "2024-10-28 15:16:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-10-27 14:02:39 +0200"
+    },
+    "done": true
+  },
+  "cashcraft:recipes/break_note_one": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  },
+  "cashcraft:recipes/make_coin_ten": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  },
+  "cashcraft:recipes/make_note_five": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-10-27 14:02:41 +0200"
+    },
+    "done": true
+  },
+  "cashcraft:recipes/make_coin_fifty": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-10-27 14:02:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2024-10-26 19:24:33 +0300",
+      "swampland": "2024-10-27 13:49:56 +0200",
+      "deep_ocean": "2024-10-27 13:47:25 +0200",
+      "beaches": "2024-10-26 19:28:17 +0300",
+      "extreme_hills_with_trees": "2024-10-27 13:52:57 +0200",
+      "forest_hills": "2024-10-27 13:46:38 +0200",
+      "plains": "2024-10-26 19:28:21 +0300",
+      "taiga": "2024-10-27 13:49:51 +0200",
+      "taiga_hills": "2024-10-27 13:56:38 +0200",
+      "birch_forest_hills": "2024-10-27 13:50:03 +0200",
+      "ocean": "2024-10-26 19:28:18 +0300",
+      "extreme_hills": "2024-10-27 13:47:05 +0200",
+      "river": "2024-10-26 19:28:07 +0300",
+      "stone_beach": "2024-10-27 14:12:05 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2024-10-27 14:02:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-10-28 15:15:52 +0200"
+    },
+    "done": true
+  },
+  "cashcraft:recipes/make_note_one": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  },
+  "cashcraft:recipes/break_coin_fifty": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  },
+  "cashcraft:recipes/make_coin_twenty": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapdoor": {
+    "criteria": {
+      "has_planks": "2024-10-27 14:02:39 +0200"
+    },
+    "done": true
+  },
+  "cashcraft:recipes/make_coin_two": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2024-10-26 19:28:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-10-26 20:04:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-10-27 14:02:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-10-27 14:02:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-10-27 14:02:41 +0200"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2024-10-26 19:24:34 +0300"
+    },
+    "done": true
+  },
+  "cashcraft:recipes/make_note_hundred": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  },
+  "cashcraft:recipes/break_coin_twenty": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2024-10-26 19:28:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-10-27 14:02:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-10-27 14:02:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-10-27 14:02:39 +0200"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/fuel_loader": {
+    "criteria": {
+      "fuel_loader": "2024-10-27 21:27:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-10-27 21:33:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-10-27 13:55:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-10-27 21:33:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2024-10-26 19:28:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2024-10-26 19:28:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sign": {
+    "criteria": {
+      "has_planks": "2024-10-27 14:02:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2024-10-26 19:28:08 +0300"
+    },
+    "done": true
+  },
+  "cashcraft:recipes/break_note_five": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  },
+  "cashcraft:recipes/make_note_fifty": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_button": {
+    "criteria": {
+      "has_planks": "2024-10-27 14:02:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-10-27 14:02:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2024-10-27 14:02:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-10-27 14:02:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2024-10-26 19:28:08 +0300"
+    },
+    "done": true
+  },
+  "cashcraft:recipes/break_note_ten": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  },
+  "cashcraft:recipes/break_note_fifty": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-10-27 14:21:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "creeper": "2024-10-27 14:08:26 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-10-27 14:21:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2024-10-27 14:21:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fence": {
+    "criteria": {
+      "has_planks": "2024-10-27 14:02:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2024-10-28 15:20:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2024-10-27 21:33:19 +0200"
+    },
+    "done": true
+  },
+  "cashcraft:recipes/moneypouch": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  },
+  "cashcraft:recipes/break_note_hundred": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-10-27 14:02:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-10-27 14:02:41 +0200"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2024-10-26 19:24:34 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/fence_gate": {
+    "criteria": {
+      "has_planks": "2024-10-27 14:02:39 +0200"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/basic_solar": {
+    "criteria": {
+      "solar": "2024-10-27 21:31:20 +0200"
+    },
+    "done": true
+  },
+  "cashcraft:recipes/make_coin_five": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-10-27 21:33:19 +0200"
+    },
+    "done": true
+  },
+  "cashcraft:recipes/break_coin_five": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/root": {
+    "criteria": {
+      "tick": "2024-10-26 19:24:34 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-10-27 14:02:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_door": {
+    "criteria": {
+      "has_planks": "2024-10-27 14:02:39 +0200"
+    },
+    "done": true
+  },
+  "cashcraft:recipes/break_note_two": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  },
+  "cashcraft:recipes/make_note_ten": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  },
+  "hbm:horizonsend": {
+    "criteria": {
+      "impossible": "2024-10-28 15:27:03 +0200"
+    },
+    "done": true
+  },
+  "cashcraft:recipes/break_coin_ten": {
+    "criteria": {
+      "has_cash": "2024-10-26 20:00:22 +0300"
+    },
+    "done": true
+  }
+}
