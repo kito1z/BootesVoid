@@ -1,4 +1,10 @@
 {
+  "appliedenergistics2:main/cable_glass": {
+    "criteria": {
+      "certus": "2024-10-29 20:57:32 +0200"
+    },
+    "done": true
+  },
   "cashcraft:recipes/break_note_twenty": {
     "criteria": {
       "has_cash": "2024-10-26 20:00:22 +0300"
@@ -50,6 +56,12 @@
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2024-10-27 14:02:39 +0200"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/controller": {
+    "criteria": {
+      "certus": "2024-10-29 20:53:39 +0200"
     },
     "done": true
   },
@@ -210,6 +222,12 @@
     },
     "done": true
   },
+  "cfm:privacy": {
+    "criteria": {
+      "get_blinds_or_curtains": "2024-10-29 21:12:16 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2024-10-27 14:02:39 +0200"
@@ -330,6 +348,12 @@
     },
     "done": true
   },
+  "cfm:minekea": {
+    "criteria": {
+      "get_chair_or_table": "2024-10-29 21:13:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "creeper": "2024-10-27 14:08:26 +0200"
@@ -360,6 +384,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/crafting_terminal": {
+    "criteria": {
+      "certus": "2024-10-29 20:57:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2024-10-27 21:33:19 +0200"
@@ -384,9 +414,21 @@
     },
     "done": true
   },
+  "hbm:progress_centrifuge_1": {
+    "criteria": {
+      "crafting_table": "2024-10-29 17:57:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-10-27 14:02:41 +0200"
+    },
+    "done": true
+  },
+  "cfm:bathroom": {
+    "criteria": {
+      "get_bathroom_furniture": "2024-10-29 21:11:03 +0200"
     },
     "done": true
   },
@@ -405,6 +447,12 @@
   "galacticraftcore:galacticraft/basic_solar": {
     "criteria": {
       "solar": "2024-10-27 21:31:20 +0200"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/facade": {
+    "criteria": {
+      "facade": "2024-10-29 20:58:03 +0200"
     },
     "done": true
   },
@@ -435,6 +483,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-10-27 14:02:41 +0200"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/network1": {
+    "criteria": {
+      "cable": "2024-10-29 21:03:10 +0200"
     },
     "done": true
   },
