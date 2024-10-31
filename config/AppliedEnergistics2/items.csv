@@ -8191,28 +8191,6 @@ cashcraft:cash:10, 20 banknote
 cashcraft:cash:11, 50 banknote
 cashcraft:cash:12, 100 banknote
 cashcraft:moneypouch, Money Pouch
-customnpcs:npcwand, Npc Wand
-customnpcs:npcmobcloner, Mob Cloner
-customnpcs:npcscripter, Scripter
-customnpcs:npcmovingpath, Npc Pather
-customnpcs:npcmounter, Mounter
-customnpcs:npcteleporter, Teleporter
-customnpcs:npcscripteddoortool, Scripted Door
-customnpcs:npcsoulstoneempty, Soulstone Empty
-customnpcs:npcsoulstonefilled, Soulstone Filled
-customnpcs:scripted_item:0, Scripted Item
-customnpcs:nbt_book, NBT Tags Book
-customnpcs:npcredstoneblock, Redstone Block
-customnpcs:npccarpentybench, Carpentry Bench
-customnpcs:npcmailbox:0, Mailbox
-customnpcs:npcmailbox:1, Mailbox
-customnpcs:npcmailbox:2, Mailbox
-customnpcs:npcwaypoint, Location Quest Block
-customnpcs:npcborder, Border
-customnpcs:npcscripted, Scripted Block
-customnpcs:npcscripteddoor, tile.npcscripteddoor.name
-customnpcs:npcbuilderblock, Builder Block
-customnpcs:npccopyblock, Copy Block
 galacticcomputers:sealed_cable, Sealable Cable
 scifi_weaponry:blazeblasterbolt, Blazebolt
 scifi_weaponry:blazebladeblue, Blue BlazeBlade
@@ -9176,7 +9154,7 @@ warpdrive:warp_armor.superior.helmet, Warp Helmet
 warpdrive:warp_armor.superior.chestplate, Warp Chestplate
 warpdrive:warp_armor.superior.leggings, Warp Leggings
 warpdrive:warp_armor.superior.boots, Warp Boots
+openglasses:openglassesterminal, Glasses Terminal
 openglasses:openglasses:0, AR Glasses
 openglasses:openglasses:0, AR Glasses
 openglasses:openglasses_card, Glasses Terminal Card
-openglasses:openglassesterminal, Glasses Terminal
